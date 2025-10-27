@@ -44,4 +44,10 @@ cuando lo hicimos la primera vez (Ej: 1ºvez = 5000z | 2º o mas =  2500z)
 
 - Agregar un modo arena, parecido al sistema de valhalla knights 2 y con algun nivel secreto.
 
+- Agregar mas teletransportadores en las zonas que noo hay, como por ejemplo en Akatoki y Ciudad Rusell.
+
+- Agregar un sistema de trnasfiguración de armaduras y armas.
+
+- Agregar un sistema de expediciones para enviar a tus reclutas.
+
 - Agregar una vez finalizado el juego un mapa nuevo e historia nueva (Coming soon).
