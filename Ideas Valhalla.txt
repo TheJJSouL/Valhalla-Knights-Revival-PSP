@@ -1,0 +1,47 @@
+IDEAS PARA VALHALLA KNIGHTS REVIVAL
+ 
+- Al final del tutorial cuando demos la pepita de oro al posadero tendremos en el cuarto de arriba de la posada
+un cofre con 100 espacios que podremos aumentar a lo largo de la historia.
+
+- Crear una guía de aventurero en la que podemos avanzar matando enemigos, por ejemplo matamos una baba, aparecerá en esa guía 1/5
+con una barra que irá avanzando en base matemos más. Esto nos dará investigación con ese enemigo y podremos ver en base a cuantos
+mas matemos que objetos pueden lootear. Además poner en cada enemigo el nivel 100 de investigacion el maximo, lo cuál nos dará
+un arma especial relacionada con ese enemigo (Por ejemplo con las babosas, al nivel 100 te dará una espada con veneno de babosa
+y una estética nueva).
+Además a esas armas incrementaremos un sistema de niveles en ellas que se podrán mejorar con un nuevo NPC(Baklin) el
+cuál será un herrero que incluiremos en la vieja carcel, para mejorarla  deberás haber almenos llegado a el pasado, y a partir de 
+aquí los enemigos soltarán una esfera de mejora, la cual se podrá usar con cualquier arma de las especiales para mejorarla.
+
+Cada arma constará de 10 niveles que se mejoraran en:
+Nivel 0 - 1 --> 1 esfera de mejora
+Nivel 1 - 2 --> 1 esfera de mejora
+Nivel 2 - 3 --> 2 esfera de mejora
+Nivel 3 - 4 --> 2 esfera de mejora
+Nivel 4 - 5 --> 3 esfera de mejora
+Nivel 5 - 6 --> 3 esfera de mejora
+Nivel 6 - 7 --> 3 esfera de mejora
+Nivel 7 - 8 --> 4 esfera de mejora
+Nivel 8 - 9 --> 4 esfera de mejora
+Nivel 9 - 10 --> 5 esfera de mejora
+
+- Una vez completada la historia de forma individual me gustaría poder activar en el gremio una historia completamente distinta
+pero que sea en cooperativo. Veremos que se puede hacer con ppsspp y sus limitaciones.
+
+- Se agregará una guía de pensamientos, en la que en base avancemos podremos ir leyendo el lore por si no recordamos algo,
+será una guía escrita a mano por tu protagonista, en la que el personaje recordará lo que sucedió en base al capítulo que seleccionemos
+y tengamos desbloqueado.
+
+- Agregar mas NPCs y más dialogos a los personajes, así como misiones secundarias.
+
+- Agregar más espacios de reclutas (Personajes) en el gremio.
+
+- Agregar más armaduras y más armas en el juego (Podemos incluir sets de valhalla knight 2).
+
+- Agregar alguna toma de decisiones.
+
+- Agregar un sistema de rejugabilidad, en el gremio todas las misiones serán rejugables pero el dinero obtenido será la mitad de
+cuando lo hicimos la primera vez (Ej: 1ºvez = 5000z | 2º o mas =  2500z)
+
+- Agregar un modo arena, parecido al sistema de valhalla knights 2 y con algun nivel secreto.
+
+- Agregar una vez finalizado el juego un mapa nuevo e historia nueva (Coming soon).

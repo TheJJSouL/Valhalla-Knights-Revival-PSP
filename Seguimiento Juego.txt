@@ -1,0 +1,6 @@
+- Pantallas de tutorial al principio del juego. Que nos diga los controles (Moverse, saltar, agacharse), y otra
+cuando entremos en el combate tutorial para explicarnos como usar los personajes a melé y como usar los 
+hechizos y como usar la sanación, además habrá que hacerlo en orden y mientras tanto el boss no podrá morir. 
+Primero usaremos al padre del protagonista y nos enseñará a atacar y a usar el golpe fuerte, después 
+usaremos a su healer para usarr una magia y después una curación en el padre del protagonista. Ahí acabará el
+tutorial y deberás hacer como hacia el original, luchar contra el dragon.
