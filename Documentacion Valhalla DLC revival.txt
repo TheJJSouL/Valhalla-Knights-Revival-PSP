@@ -1,0 +1,18 @@
+Lo que significan esas carpetas (según estructura típica de Marvelous/PSP):
+Carpeta	Significado probable
+bgm	Música del juego (archivos .at3)
+bstage	Escenarios de batalla o datos de los mapas donde peleas
+char	Modelos y animaciones de personajes/enemigos (.gmo o .dat)
+cmnobj	Objetos comunes del escenario
+effect	Efectos visuales (magias, partículas)
+en, fr, ge, it, sp	Idiomas (en = inglés, sp = español)
+sprite	Texturas o gráficos 2D
+item	Datos y modelos de armas y equipamiento
+system	Archivos de motor, configuración o tablas globales
+scene, scpack	Scripts de historia o escenas
+tblData (dentro de cada idioma)	Tablas de datos: probablemente textos o referencias a parámetros (esto puede tener nombres, enemigos, ítems, etc.)
+
+
+char/ch00.res, ch01.res, etc. → modelos, animaciones, y datos visuales
+
+sp/tblData/tblData.res → parámetros y tablas (textos, stats, listas)
